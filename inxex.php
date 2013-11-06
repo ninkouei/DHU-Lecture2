@@ -1,0 +1,3 @@
+<?php
+//phpenfo->phpinfo
+phpinfo();
